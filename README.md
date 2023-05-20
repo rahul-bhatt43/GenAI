@@ -4,7 +4,7 @@
 
 This is an AI 🤖Image Generator that generates the Unique AI Images every time, if a new prompt is given also you can  download that Image.
 
-<h2 align="center"><img src="https://ibb.co/QCsNKyh"></h2>
+<h2 align="center"><img src="https://i.ibb.co/vQ2Pj0f/AIImage.png"></h2>
 
 ## Technologies Used
 
